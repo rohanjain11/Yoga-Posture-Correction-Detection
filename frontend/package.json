@@ -30,7 +30,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -r https://github.com/rohanjain11/Yoga-Posture-Correction-Detection",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
